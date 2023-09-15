@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a data engineer at Cisco Secure Workload (formerly Tetration Analytics), Palo Alto.
+I'm currently a data engineer at Cisco Secure Workload (formerly Tetration Analytics), San Jose.
 
 #### [Running Sets Me Free](https://hanlhe.github.io/running_page/)
 
