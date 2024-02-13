@@ -26,6 +26,7 @@ I'm currently a data engineer at Cisco Secure Workload (formerly Tetration Analy
 - [`05:44:19`](http://www.geexek.com/score/pscore?cGlkPTUyNzA3ODcmY2lkPTc2MTMmcmlkPTIzMjQzJm5pZ2h0PTAmb3BlbklkPSZ1c2VySWQ9) | `05/22/2016` | [Dalian International Marathon](http://www.dlmls.org/)
 
 **Half Marathon**
+- [`02:17:02`](https://events.hakuapp.com/?registration_number=E6196DBC16) | `02/04/2024` | [Kaiser Permanente San Francisco Half Marathon](https://sanfranciscohalfmarathon.org/) (virtual)
 - [`02:40:26`](https://runsignup.com/Race/Results/55369/IndividualResult/HKHJ?resultSetId=431747#U36580675) | `01/01/2024` | [Brazen New Year's Day Half Marathon](https://brazenracing.com/newyearsday/)
 - [`02:31:41`](https://runsignup.com/Race/Results/55339/IndividualResult/HKgk?resultSetId=431753#U36580675) | `12/31/2023` | [Brazen New Year's Eve Half Marathon](https://brazenracing.com/newyearseve/)
 - [`02:03:51`](https://events.hakuapp.com/?registration_number=EE1AF39AF7&event_option=b7ca85f49c4d7e6f603b) | `11/12/2023` | [Monterey Bay Half Marathon](https://www.montereybayhalfmarathon.org/)
